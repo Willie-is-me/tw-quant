@@ -1,0 +1,28 @@
+{
+  "run_at": "2026-10-04T13:54:46+00:00",
+  "protocol_path": "/tmp/claude-0/-home-claude/dfc4b0cf-2aa2-5ce5-a43e-4b077aa7bbdf/scratchpad/tw-quant-ho/protocol.md",
+  "protocol_sha256": "7e194417049e50b49bdabbd9746232716a0b9ea65ca0298346d8ea66d95d5928",
+  "protocol_git": {
+    "commit": "451700f620e2a1b36f6321a674ffd151c817a155 2026-10-04T21:53:25+08:00",
+    "dirty": false
+  },
+  "src_sha256": {
+    "universe.py": "571d1b68eca1c916d4975a499614aa420c2410f18524cf5335d7e7482a357691",
+    "factors.py": "945d2a8a1723b9ce17a7bc8d4e684e4da2c3010b84d9d01079625609fa0143fb",
+    "backtest.py": "dbee4bf93a85f7ac510e1684a4ab4cc80e20329a63af4f373eedefac4aca22f4",
+    "stats.py": "1a42c69ab0d7bb7023ef12b458cfb4cd2670918d1e0d62f736a96b90d3e01fb5",
+    "run_trial.py": "08bfab3b8965a7f770a39bd2bc175faeba687613fdbccfd1e8004ab71262e731"
+  },
+  "phase": "holdout",
+  "n_trials": 8,
+  "data_fingerprint": {
+    "twmarket_prices_adj.parquet": "86abd2c8445bbb416eba734173afc214b2860ad620b11971b1cf0b16604da77b",
+    "twmarket_prices.parquet": "66584c8b56ac8742f008e34f07f53ef7f15c4da97875ab589dba8b3a5725cf6c",
+    "per.parquet": "6d6ebdd62faa34840454bb3b8fc423f759b70f317db9fd0f4feab4f10b3d3cfb",
+    "shares.parquet": "262c022b432c88ef2d02ae8fffee4d5ba8ac7d170d9f9f61f9a526f2c106af61",
+    "dividend_result.parquet": "b9f1ab083eb98c2f134fa5fe93bc4c0f23ed69cb8274855db7dcda0ff73621b9",
+    "per_extra.parquet": "ac69ca0333d3a368d16bf9ddd625e256ebaf3f70c7107c98b32e7c55c34fc79b",
+    "shares_extra.parquet": "83b1ab7acf4435a7d53af3b7b9cac36c685bce8d88074ece72faa82c5f05f5c6",
+    "universe.py": "571d1b68eca1c916d4975a499614aa420c2410f18524cf5335d7e7482a357691"
+  }
+}
